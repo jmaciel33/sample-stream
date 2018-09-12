@@ -9,8 +9,8 @@ Para efetuar o build da aplicação, execute o comando abaixo, no terminal.
 $ mvn clean install  
 ```
 
-## Tecnologia
+## Tecnologias
 
-Java 8
+Java 8  
 Maven
 
