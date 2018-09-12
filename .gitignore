@@ -1,0 +1,18 @@
+# Intellij Files
+target/
+.idea/
+*.iml
+
+# Log Files
+*.log
+*.gz
+
+# Visual Studio Code Files
+*.vscode
+
+# Eclipse files
+*.classpath
+*.project
+.settings/
+.metadata
+bin/
